@@ -1,3 +1,9 @@
+@import url("https://fonts.googleapis.com/css2?family=Nunito:wght@200;300;400;600;700;800display=swap");
+
+.App {
+  font-family: 'Nunito', sans-serif;
+}
+
 :root {
   --nav-color: hsl(210, 11%, 15%);
   --nav-color-hover: hsl(210, 11%, 45%);
@@ -5,4 +11,13 @@
   --light-color: hsl(209, 100%, 92%);
   --font-color: hsl(0, 0%, 100%);
   --font-color-hover: hsl(0, 0%, 30%);
+}
+
+.tsparticles-canvas-el {
+  position: inherit !important;
+  min-height: 96vh;
+}
+
+#tsparticles {
+  height: 100vh;
 }
