@@ -1,6 +1,6 @@
 import './App.css';
 import NavigationBar from './screens/navigationBar/NavigationBar';
-// import Particles from 'react-tsparticles';
+import Particles from 'react-tsparticles';
 import Header from "./screens/header/Header";
 
 function App() {
@@ -8,7 +8,7 @@ function App() {
     <div className="App">
       <NavigationBar/>
       <Header />
-      {/* <Particles 
+      <Particles 
         id="tsparticles"
         options={{
           background: {
@@ -65,7 +65,7 @@ function App() {
             },
           },
         }}
-      /> */}
+      />
 
     </div>
   );
