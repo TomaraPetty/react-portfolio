@@ -2,13 +2,14 @@ import './App.css';
 import NavigationBar from './screens/navigationBar/NavigationBar';
 import Particles from 'react-tsparticles';
 import Header from "./screens/header/Header";
+import AboutMe from './screens/aboutMe/AboutMe';
 
 function App() {
   return (
     <div className="App">
       <NavigationBar/>
       <Header />
-      <Particles 
+      {/* <Particles 
         id="tsparticles"
         options={{
           background: {
@@ -65,7 +66,8 @@ function App() {
             },
           },
         }}
-      />
+      /> */}
+      <AboutMe />
 
     </div>
   );
