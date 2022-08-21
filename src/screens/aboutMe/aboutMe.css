@@ -8,14 +8,27 @@
 
 .about__text {
     max-width: 600px;
-
 }
 
 .about__container img {
     border-radius: 50%;
     border: 0.5px rgb(218,218,218);
     margin-bottom: 1rem;
-    max-width: 100px;
-    max-height: 100px;
+    max-width: 120px;
+    max-height: 120px;
     object-fit: scale-down;
+}
+
+/* --------Media Queries-------- */
+
+@media only screen and (max-width: 900px) {
+    .about__container {
+        flex-direction: column;
+    }
+}
+
+@media only screen and (max-width: 700px) {
+    .about__text {
+        max-width: 300px;
+    }
 }

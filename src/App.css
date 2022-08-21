@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Nunito:wght@200;300;400;600;700;800&display=swap');
 
+
 .App {
   font-family: 'Nunito', sans-serif;
 }
@@ -13,11 +14,11 @@
   --font-color-hover: hsl(0, 0%, 30%);
 }
 
-/* .tsparticles-canvas-el {
+.tsparticles-canvas-el {
   position: inherit !important;
   min-height: 96vh;
 }
 
 #tsparticles {
   height: 100vh;
-} */
+}

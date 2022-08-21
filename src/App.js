@@ -1,20 +1,23 @@
 import './App.css';
 import NavigationBar from './screens/navigationBar/NavigationBar';
 import Particles from 'react-tsparticles';
-import Header from "./screens/header/Header";
+import Header from './screens/header/Header';
 import AboutMe from './screens/aboutMe/AboutMe';
 
 function App() {
   return (
-    <div className="App">
-      <NavigationBar/>
+    <div className='App'>
+      <NavigationBar />
       <Header />
-      {/* <Particles 
-        id="tsparticles"
+      {/* <Particles
+        // style={{ position: 'absolute' }}
+        // height='95%'
+        // width='95%'
+        id='tsparticles'
         options={{
           background: {
             color: {
-              value: "#212529",
+              value: '#212529',
             },
           },
           fpsLimit: 60,
@@ -22,7 +25,7 @@ function App() {
             events: {
               onClick: {
                 enable: true,
-                mode: "push",
+                mode: 'push',
               },
               // onHover: {
               //   enable: true,
@@ -48,18 +51,18 @@ function App() {
           },
           particles: {
             color: {
-              value: "#ffffff",
+              value: '#ffffff',
             },
             links: {
-              color: "#ffff5f",
+              color: '#ffff5f',
               distance: 150,
               enable: true,
               opacity: 0.5,
             },
             move: {
-              direction: "none",
+              direction: 'none',
               enable: true,
-              outMode: "bounce",
+              outMode: 'bounce',
               random: false,
               speed: 1,
               straight: false,
@@ -68,7 +71,6 @@ function App() {
         }}
       /> */}
       <AboutMe />
-
     </div>
   );
 }
