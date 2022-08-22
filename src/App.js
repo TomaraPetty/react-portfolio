@@ -1,23 +1,22 @@
 import './App.css';
 import NavigationBar from './screens/navigationBar/NavigationBar';
-import Particles from 'react-tsparticles';
+import { tsParticles } from 'tsparticles';
 import Header from './screens/header/Header';
 import AboutMe from './screens/aboutMe/AboutMe';
+import Technologies from './screens/technologies/Technologies';
+import Particles from 'react-tsparticles';
 
 function App() {
   return (
     <div className='App'>
       <NavigationBar />
       <Header />
-      {/* <Particles
-        // style={{ position: 'absolute' }}
-        // height='95%'
-        // width='95%'
-        id='tsparticles'
-        options={{
+      <Particles>
+        id='tsparticles' options=
+        {{
           background: {
             color: {
-              value: '#212529',
+              value: '#3B3B3B',
             },
           },
           fpsLimit: 60,
@@ -69,8 +68,9 @@ function App() {
             },
           },
         }}
-      /> */}
+      </Particles>
       <AboutMe />
+      <Technologies />
     </div>
   );
 }
