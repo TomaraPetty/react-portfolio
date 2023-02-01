@@ -1,5 +1,5 @@
 .navigation_container {
-  background-color: var(--nav-color);
+  background: linear-gradient(var(--light-color) 90%, var(--nav-color));
   color: white;
   }
 

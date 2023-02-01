@@ -1,5 +1,5 @@
 .technologies__container {
-    background-color: var(--light-color);
+    background: linear-gradient(var(--light-color) 70%, var(--nav-color));
     color: var(--nav-color);
     display: flex;
     flex-direction: column;
@@ -25,18 +25,13 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    border-radius: 3px;
+    border-radius: 9px;
     border-bottom: 5px solid var(--nav-color);
     transition: all 0.1s;
 }
 
 .tech__icons {
     height: 70px;
-    background-color: var(--light-color);
+    background: linear-gradient(to left top, var(--light-color), #9198e5, #c59494);
     border-radius: 50%;
-}
-
-.tech__card:hover {
-    background-color: var(--font-color-hover);
-    transform: scale(1.05);
 }
