@@ -61,10 +61,11 @@ function ParticlesBG() {
             },
             particles: {
               color: {
-                value: '#ffffff',
+                value: '',
               },
               links: {
-                color: '#ffff5f',
+                // color: '#ffff5f',
+                color: "#8DB1BF",
                 distance: 150,
                 enable: true,
                 opacity: 0.8,
