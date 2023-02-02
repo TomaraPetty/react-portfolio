@@ -74,13 +74,13 @@ function Portfolio() {
     <div className="portfolio__main__container" id="portfolio">
       <h1>PORTFOLIO</h1>
       <p>
-        This is my GitHub Page
+        Check out more projects on my GitHub Page: &nbsp;
         <a
           href='https://github.com/TomaraPetty'
           target='_blank'
           rel='noreferrer'
         >
-          https://github.com/TomaraPetty
+        https://github.com/TomaraPetty
         </a>
       </p>
       <Container fluid='lg' style={{ padding: '2rem 0' }}>
