@@ -8,26 +8,19 @@
     background-color: white;
     width: 100%;
     padding: 40px;
-    z-index: 3;
-}
-
-.profile-image {
-    z-index: 2;
 }
 
 .about__text {
     max-width: 600px;
-    z-index: 2;
 }
 
 .about__container img {
     border-radius: 50%;
     border: 0.5px rgb(218,218,218);
     margin-bottom: 1rem;
-    max-width: 120px;
-    max-height: 120px;
+    max-width: 200px;
+    max-height: 200px;
     object-fit: scale-down;
-    z-index: 2;
 }
 
 /* --------Media Queries-------- */
