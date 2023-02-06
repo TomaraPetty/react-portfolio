@@ -14,17 +14,18 @@ function Header() {
           'Frontend developer',
           'Backend developer',
           'Fullstack developer',
+          'Programmer',
           'Or...',
-          'a coder',
+          'A Coder',
           '',
           '',
         ]}
         typeSpeed={40}
         backSpeed={50}
-        attr='placeholder'
+        // attr='placeholder'
         loop
       >
-        <input type='text' />
+        {/* <input type='text' /> */}
       </Typed>
     </div>
   );

@@ -17,7 +17,7 @@ export const techs = [
   },
   {
     name: 'AWS',
-    iconName: 'mongodb',
+    iconName: 'aws',
   },
   {
     name: 'SQL lite',
@@ -32,11 +32,15 @@ export const techs = [
     iconName: 'github',
   },
   {
-    name: 'HTML 5',
-    iconName: 'html5',
+    name: 'less',
+    iconName: 'less',
   },
-  {
-    name: 'CSS3',
-    iconName: 'css3',
-  },
+  // {
+  //   name: 'HTML 5',
+  //   iconName: 'html5',
+  // },
+  // {
+  //   name: 'CSS3',
+  //   iconName: 'css3',
+  // },
 ];

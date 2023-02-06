@@ -6,12 +6,15 @@
 }
 
 :root {
-  --nav-color: hsl(210, 11%, 15%);
+  --nav-color: #A3D2CA;
   --nav-color-hover: hsl(210, 11%, 45%);
   --nav-borer-color: hsl(210, 11%, 45%);
-  --light-color: hsl(198deg 28% 65%);
-  --font-color: hsl(0, 0%, 100%);
+  --light-color: #A3D2CA;
+  --font-color: #F8F1F1;
+  --nav-hover: #F8EDE3;
   --font-color-hover: hsl(0, 0%, 30%);
+  --accent: #EB5E0B;
+  --gradient: linear-gradient(270deg, #FFC000 8.74%, #EB0000 53.4%, #0000FF 100%);
 }
 
 .tsparticles-canvas-el {

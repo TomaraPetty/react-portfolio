@@ -24,10 +24,10 @@ function ParticlesBG() {
           init={particlesInit}
           loaded={particlesLoaded}
           options={{
-            fullScreen: { enable: false },
+            // fullScreen: { enable: false },
             background: {
               color: {
-                value: '#212529',
+                value: 'F8F1F1',
               },
             },
             fpsLimit: 60,
@@ -65,7 +65,7 @@ function ParticlesBG() {
               },
               links: {
                 // color: '#ffff5f',
-                color: "#8DB1BF",
+                color: "#5EAAA8",
                 distance: 150,
                 enable: true,
                 opacity: 0.8,

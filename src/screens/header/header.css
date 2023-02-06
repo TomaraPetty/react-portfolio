@@ -1,7 +1,10 @@
+h1 {
+    color: var(--nav-color-hover);
+}
 .main-info {
     display: flex;
-    position: absolute;
-    color: var(--font-color);
+    height: 100vh;
+    color: var(--nav-color-hover);
     top: 0;
     left: 0;
     right: 0;

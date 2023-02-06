@@ -1,14 +1,14 @@
 .navigation_container {
-  background: linear-gradient(var(--light-color) 90%, var(--nav-color));
-  color: white;
+  background: var(--font-color);
+  /* color: white; */
   }
 
   .navbar-light .navbar-nav .nav-link {
-    color: var(--font-color) !important;
+    color: var(--font-color-hover) !important;
 }
 
 .navbar-light .navbar-brand {
-  color: var(--font-color) !important;
+  color: var(--font-color-hover) !important;
 }
 
 .navbar-light .navbar-toggler-icon {
@@ -16,5 +16,7 @@
 }
 
 .links a:hover {
-  background-color: var(--font-color-hover);
+  /* background-color: var(--light-color); */
+  color: var(--font-color) !important;
+  border-radius: 9px;
 }

@@ -1,26 +1,35 @@
 .contactMe__container {
-    background-color: var(--nav-color);
-    color: aliceblue;
+    background-color: var(--font-color);
+    color: var(--font-color-hover);
     padding: 1rem;
+    z-index: 5;
 }
 
 .contactMe__data__links {
     display: flex;
     justify-content: space-evenly;
+    z-index: 5;
 }
 
 .contactMe__data__links a {
-    color: white;
+    color: var(--font-color-hover);
     text-decoration: none;
     text-transform: uppercase;
+    padding: 10px;
+    z-index: 5;
 }
 
 .contactMe__data__links a:hover {
-    color: var(--light-color);
+    background-color: var(--light-color);
+    border-radius: 9px;
+    color: var(--font-color);
+    padding: 10px;
+    z-index: 5;
 }
 
 @media only screen and (max-width: 600px) {
     .contactMe__data__links {
         flex-direction: column;
+        z-index: 5;
     }
 }

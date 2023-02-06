@@ -1,5 +1,6 @@
-.portfolio {
-    background-color: aqua;
+  .portfolio__main__container {
+    background-color: white;
+    padding: 10px;
   }
    
   .portfolio__main__container h1, 
@@ -8,11 +9,18 @@
     margin-top: 3rem;
   }
    
-  #portfolio__card__container {
+  .portfolio__card__container {
     width: 50%;
     padding: 10px;
     border: none;
   }
+
+  /* .container {
+    grid-template-columns: 100px 50px 100px;
+    grid-template-rows: 80px auto 80px; 
+    column-gap: 50px;
+    row-gap: 55px;
+  } */
    
   .portfolio__image:hover {
     cursor: pointer;
