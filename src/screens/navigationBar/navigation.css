@@ -1,6 +1,6 @@
 .navigation_container {
   background: var(--font-color);
-  /* color: white; */
+  color: var(--font-color-hover);
   }
 
   .navbar-light .navbar-nav .nav-link {
@@ -13,10 +13,11 @@
 
 .navbar-light .navbar-toggler-icon {
   filter: invert(1);
+  color: var(--font-color-hover);
 }
 
 .links a:hover {
   /* background-color: var(--light-color); */
-  color: var(--font-color) !important;
+  color: red !important;
   border-radius: 9px;
 }
