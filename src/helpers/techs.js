@@ -32,7 +32,7 @@ export const techs = [
     iconName: 'github',
   },
   {
-    name: 'less',
+    name: 'Less',
     iconName: 'less',
   },
   // {
