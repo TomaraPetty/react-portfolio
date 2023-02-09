@@ -70,7 +70,7 @@ Tomara Petty
 
 ## Questions?
 <p float="left">
-<img src="https://avatars0.githubusercontent.com/u/65513543?s=460&u=20bf726727263d5c2cb42b357ae261aff2a38e6e&v=4" alt="GitHub profile image" width="150">
+<img src="https://avatars0.githubusercontent.com/u/65513543?s=460&u=20bf726727263d5c2cb42b357ae261aff2a38e6e&v=4" alt="GitHub profile image" width="150" style="border-radius:50%">
 </p>
 
 ## Contact 
