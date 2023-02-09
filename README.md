@@ -10,8 +10,8 @@ Link to site: https://tomarapetty.github.io/react-portfolio/
 * [License](#license)
 * [Tests](#tests)
 * [Author](#author)
-* [Contact](#contact)
 * [Questions](#questions)
+* [Contact](#contact)
 
 
 ## Description 
@@ -68,6 +68,11 @@ npm run start
 ## Author
 Tomara Petty 
 
+## Questions?
+<p float="left">
+<img src="https://avatars0.githubusercontent.com/u/65513543?s=460&u=20bf726727263d5c2cb42b357ae261aff2a38e6e&v=4" alt="GitHub profile image" width="150">
+</p>
+
 ## Contact 
 <ul>
     <li><a href="https://www.instagram.com/tomara/">Instagram: @tomara</a></li>
@@ -75,8 +80,3 @@ Tomara Petty
     <li><a href="mailto:tomararuth@gmail.com">Email: tomararuth@gmail.com</a></li>
     <li><a href="https://www.linkedin.com/in/tomara-petty/">LinkedIn: @tomara-petty</a></li>
 </ul>
-
-## Questions?
-<p float="left">
-<img src="https://avatars0.githubusercontent.com/u/65513543?s=460&u=20bf726727263d5c2cb42b357ae261aff2a38e6e&v=4" alt="GitHub profile image" width="150">
-</p>
