@@ -1,23 +1,56 @@
 # Portfolio
+![GitHub](https://img.shields.io/badge/license-MIT-green)
 
 Link to site: https://tomarapetty.github.io/react-portfolio/
 
-## Overview
-This page is Tomara Petty's portfolio. It is an overview of her work and a place for potential clients and employers to view her work and learn more about her skill set. The page is made of three sections About Me, Projects and examples of work and Contact Me at the bottom. 
+## Table of Contents
+* [Description](#description)
+* [Installation](#installation)
+* [Usage](#usage)
+* [License](#license)
+* [Contributions](#contributions)
+* [Tests](#tests)
+* [Questions](#questions)
 
-## Tech
-The page consists of and HTML file, CSS file and Images Folder. The page has been styled with Materialize. In the HTML you will find the nav bar at the top and footer at the bottom. There are three main sections inside the page for the about, projects and contact me. 
-
-## Demo 
-The page comprised of one long page that you can scroll through from top to bottom. The nav bar at the top allows you to click on the section if you want to be taken there quickly instead of scrolling. 
-
-<a href="https://tomararuth.github.io/Portfolio/" target="_blank"><img src="images/tomsportfolio.gif" alt="portfolio gif"></a>
+## Description 
+*Overview of this project:* <br>
+This page is Tomara Petty's portfolio. It is an overview of her work and a place for potential clients and employers to view her work and learn more about her skill set. The single page application is built on React and is comprised of four sections: About Me, Technologies I use, Projects with examples of work and Contact Me at the bottom. 
 
 ## Installation
-To install, add the HTML, CSS and Images folders into your text editor of choice. From the Index.html you can open into the browser and all of the fonts, images and styles should open with the page.
+*Steps required to install project and get the development environment established:*
+* Clone repository. Use `npm install` command in your terminal to install all necessary packages. Then `npm run start` and go to localhost:3000/ to see the site running on your local machine. 
+
+```bash
+npm install
+npm run start
+```
+
+## Usage
+*Instructions and examples for use:* 
+* A new user is able to visit the home page and see the animated UI. User can skip to certain parts of the page by clicking the links in the navigation bar or from the links in the footer. 
+1. Home page:
+    1. The home page features particles animated background. 
+    2. An animated type section features who I am and what kind of development I do.   
+    3. Navigation bar at the top of the page to jump to different sections of the page.   
+2. Technologies I use:
+    1. When the user clicks on Technologies from the home page they will jump down to the Technologies section. 
+    2. This section gives a summary of the technologies I use by showcasing cards with logos of the languages I know.
+    3. The logos are generated using Divicons. 
+3. Portfolio:
+    1. When the user clicks on Portfolio from the home page they will jump down to the Portfolio section. 
+    2. This section gives highlights some projects I have worked on wth gifs of the websites in use. 
+    3. If you click on the project a modal will pop up with more information about the project including:
+        1. link to github
+        2. link to site
+        3. technologies used to build the project
+
+<img src="DarkHorse.gif">
 
 ## License 
-MIT
+* Built under the MIT licence.
+
+## Test
+* No tests required. 
 
 ## Author
 Tomara Petty 
@@ -30,5 +63,32 @@ Tomara Petty
     <li><a href="https://www.linkedin.com/in/tomara-petty/">LinkedIn: @tomara-petty</a></li>
 </ul>
 <img src="images/Tom1.JPG" alt="Tomara's profile images" width="150">
+
+## Questions?
+<p float="left">
+<img src="https://avatars0.githubusercontent.com/u/65513543?s=460&u=20bf726727263d5c2cb42b357ae261aff2a38e6e&v=4" alt="GitHub profile image" width="150">
+<img src="https://avatars.githubusercontent.com/u/69019881?s=460&u=6854268124a5fbb368c638a74662e170b27b5e15&v=4" alt="GitHub profile image" width="150">
+<img src="https://avatars.githubusercontent.com/u/70539107?s=460&u=19c6e1600b5f4d010ab5ab4f3527e2dcf96a1b2f&v=4" alt="GitHub profile image" width="150">
+<img src="https://avatars.githubusercontent.com/u/71291602?s=460&u=0a57edde8d1542a08429d187f505e985f42d434b&v=4" alt="GitHub profile image" width="150">
+<img src="https://avatars.githubusercontent.com/u/70980600?v=4" alt="GitHub profile image" width="150">
+</p>
+<br>
+
+#### If you have any questions or want to make a contribution please reach out to us here:
+<br>
+
+**GitHub:**   
+* @tomarapetty
+ <br>
+
+**Email:** 
+* tomararuth@gmail.com 
+ <br>
+
+**LinkedIn:** 
+* Tomara: https://www.linkedin.com/in/tomara-petty/ 
+
+
+
 
 
