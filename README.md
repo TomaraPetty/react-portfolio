@@ -8,9 +8,11 @@ Link to site: https://tomarapetty.github.io/react-portfolio/
 * [Installation](#installation)
 * [Usage](#usage)
 * [License](#license)
-* [Contributions](#contributions)
 * [Tests](#tests)
+* [Author](#author)
+* [Contact](#contact)
 * [Questions](#questions)
+
 
 ## Description 
 *Overview of this project:* <br>
