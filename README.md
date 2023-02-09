@@ -20,7 +20,9 @@ This page is Tomara Petty's portfolio. It is an overview of her work and a place
 
 ## Installation
 *Steps required to install project and get the development environment established:*
-* Clone repository. Use `npm install` command in your terminal to install all necessary packages. Then `npm run start` and go to localhost:3000/ to see the site running on your local machine. 
+* Clone repository. Use `npm install` command in your terminal to install all necessary packages. 
+* Then `npm run start` to start your local server.
+* Go to localhost:3000/ to see the site running on your local machine. 
 
 ```bash
 npm install
