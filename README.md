@@ -1,70 +1,34 @@
-# Getting Started with Create React App
+# Portfolio
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Link to site: https://tomarapetty.github.io/Portfolio/
 
-## Available Scripts
+## Overview
+This page is Tomara Petty's portfolio. It is an overview of her work and a place for potential clients and employers to view her work and learn more about her skill set. The page is made of three sections About Me, Projects and examples of work and Contact Me at the bottom. 
 
-In the project directory, you can run:
+## Tech
+The page consists of and HTML file, CSS file and Images Folder. The page has been styled with Materialize. In the HTML you will find the nav bar at the top and footer at the bottom. There are three main sections inside the page for the about, projects and contact me. 
 
-### `npm start`
+## Demo 
+The page comprised of one long page that you can scroll through from top to bottom. The nav bar at the top allows you to click on the section if you want to be taken there quickly instead of scrolling. 
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+<a href="https://tomararuth.github.io/Portfolio/" target="_blank"><img src="images/tomsportfolio.gif" alt="portfolio gif"></a>
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Installation
+To install, add the HTML, CSS and Images folders into your text editor of choice. From the Index.html you can open into the browser and all of the fonts, images and styles should open with the page.
 
-### `npm test`
+## License 
+MIT
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Author
+Tomara Petty 
 
-### `npm run build`
+## Contact 
+<ul>
+    <li><a href="https://www.instagram.com/tomara/">Instagram: @tomara</a></li>
+    <li><a href="https://github.com/tomararuth">GitHub: @tomararuth</a></li>
+    <li><a href="mailto:tomararuth@gmail.com">Email: tomararuth@gmail.com</a></li>
+    <li><a href="https://www.linkedin.com/in/tomara-petty/">LinkedIn: @tomara-petty</a></li>
+</ul>
+<img src="images/Tom1.JPG" alt="Tomara's profile images" width="150">
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
