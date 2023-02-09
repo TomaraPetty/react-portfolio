@@ -62,19 +62,14 @@ Tomara Petty
     <li><a href="mailto:tomararuth@gmail.com">Email: tomararuth@gmail.com</a></li>
     <li><a href="https://www.linkedin.com/in/tomara-petty/">LinkedIn: @tomara-petty</a></li>
 </ul>
-<img src="images/Tom1.JPG" alt="Tomara's profile images" width="150">
 
 ## Questions?
 <p float="left">
 <img src="https://avatars0.githubusercontent.com/u/65513543?s=460&u=20bf726727263d5c2cb42b357ae261aff2a38e6e&v=4" alt="GitHub profile image" width="150">
-<img src="https://avatars.githubusercontent.com/u/69019881?s=460&u=6854268124a5fbb368c638a74662e170b27b5e15&v=4" alt="GitHub profile image" width="150">
-<img src="https://avatars.githubusercontent.com/u/70539107?s=460&u=19c6e1600b5f4d010ab5ab4f3527e2dcf96a1b2f&v=4" alt="GitHub profile image" width="150">
-<img src="https://avatars.githubusercontent.com/u/71291602?s=460&u=0a57edde8d1542a08429d187f505e985f42d434b&v=4" alt="GitHub profile image" width="150">
-<img src="https://avatars.githubusercontent.com/u/70980600?v=4" alt="GitHub profile image" width="150">
 </p>
 <br>
 
-#### If you have any questions or want to make a contribution please reach out to us here:
+#### If you have any questions please reach out to me here:
 <br>
 
 **GitHub:**   
