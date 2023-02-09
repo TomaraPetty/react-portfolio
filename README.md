@@ -57,7 +57,7 @@ npm run start
     2. The contact section features ways to contact.
     3. It also has a clickable menu to take the user back to any of the other sections. 
 
-<img src="DarkHorse.gif">
+<img src="src/images/projects/DarkHorse.gif">
 
 ## License 
 * Built under the MIT license.
@@ -70,7 +70,7 @@ Tomara Petty
 
 ## Questions?
 <p float="left">
-<img src="https://avatars0.githubusercontent.com/u/65513543?s=460&u=20bf726727263d5c2cb42b357ae261aff2a38e6e&v=4" alt="GitHub profile image" width="150" style="border-radius:50%">
+<img src="https://avatars0.githubusercontent.com/u/65513543?s=460&u=20bf726727263d5c2cb42b357ae261aff2a38e6e&v=4" alt="GitHub profile image" width="150" border="10">
 </p>
 
 ## Contact 
