@@ -65,7 +65,7 @@ npm run start
 ## Test
 * When you open the page the background should be animated.
 * Text should be animated at the center of the page.
-* If either of these are not working make sure you run `npm i` to install required packages. 
+* If either of these are not working, stop your server and run `npm i` to install required packages. 
 
 ## Author
 Tomara Petty 
