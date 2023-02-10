@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/react-portfolio/static/css/main.7dd928b2.css",
-    "main.js": "/react-portfolio/static/js/main.fa6b53b0.js",
-    "static/js/787.9f229e8b.chunk.js": "/react-portfolio/static/js/787.9f229e8b.chunk.js",
-    "static/media/Tomara.JPG": "/react-portfolio/static/media/Tomara.8e2cbce2a56a098dda9b.JPG",
-    "static/media/DarkHorse.gif": "/react-portfolio/static/media/DarkHorse.dbb9d60b137689a1e188.gif",
-    "static/media/nwveg.gif": "/react-portfolio/static/media/nwveg.5a0e363c51c9d5480e81.gif",
-    "static/media/LaurasPage.gif": "/react-portfolio/static/media/LaurasPage.6aad4091ab8380a2f316.gif",
-    "static/media/GriffinOskar.gif": "/react-portfolio/static/media/GriffinOskar.44b5aa1489a6f3fd359e.gif",
-    "index.html": "/react-portfolio/index.html",
-    "main.7dd928b2.css.map": "/react-portfolio/static/css/main.7dd928b2.css.map",
-    "main.fa6b53b0.js.map": "/react-portfolio/static/js/main.fa6b53b0.js.map",
-    "787.9f229e8b.chunk.js.map": "/react-portfolio/static/js/787.9f229e8b.chunk.js.map"
+    "main.css": "/static/css/main.30c52862.css",
+    "main.js": "/static/js/main.92f519aa.js",
+    "static/js/787.9f229e8b.chunk.js": "/static/js/787.9f229e8b.chunk.js",
+    "static/media/Tomara.JPG": "/static/media/Tomara.8e2cbce2a56a098dda9b.JPG",
+    "static/media/DarkHorse.gif": "/static/media/DarkHorse.dbb9d60b137689a1e188.gif",
+    "static/media/nwveg.gif": "/static/media/nwveg.5a0e363c51c9d5480e81.gif",
+    "static/media/LaurasPage.gif": "/static/media/LaurasPage.6aad4091ab8380a2f316.gif",
+    "static/media/GriffinOskar.gif": "/static/media/GriffinOskar.44b5aa1489a6f3fd359e.gif",
+    "index.html": "/index.html",
+    "main.30c52862.css.map": "/static/css/main.30c52862.css.map",
+    "main.92f519aa.js.map": "/static/js/main.92f519aa.js.map",
+    "787.9f229e8b.chunk.js.map": "/static/js/787.9f229e8b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7dd928b2.css",
-    "static/js/main.fa6b53b0.js"
+    "static/css/main.30c52862.css",
+    "static/js/main.92f519aa.js"
   ]
 }
