@@ -12,13 +12,29 @@ export const techs = [
     iconName: 'python',
   },
   {
-    name: 'Django',
-    iconName: 'django',
-  },
-  {
     name: 'AWS',
     iconName: 'aws',
   },
+  {
+    name: 'Github',
+    iconName: 'github',
+  },
+  {
+    name: 'Node',
+    iconName: 'nodejs',
+  },
+  {
+    name: 'Docker',
+    iconName: 'docker',
+  },
+  {
+    name: 'Firebase',
+    iconName: 'firebase',
+  },
+  // {
+  //   name: 'Django',
+  //   iconName: 'django',
+  // },
   {
     name: 'SQL lite',
     iconName: 'sqllite',
@@ -28,8 +44,8 @@ export const techs = [
     iconName: 'mongodb',
   },
   {
-    name: 'Github',
-    iconName: 'github',
+    name: 'MySQL',
+    iconName: 'mysql',
   },
   {
     name: 'Less',
