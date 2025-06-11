@@ -35,6 +35,7 @@
 
 .tech__icons {
     height: 3rem;
+    width: 3rem;
     background: linear-gradient(to left top, var(--light-color), #9198e5, #c59494);
     border-radius: 50%;
 }
