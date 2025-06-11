@@ -14,14 +14,14 @@ function ContactMe() {
     <div className='contactMe__data__links'>
         <div>
             <p>Tomara Petty</p>
-            <p>Bend, OR</p>
+            <p>Portland, OR</p>
             <p>tomara.petty@gmail.com</p>
         </div>
         <div>
             {createLinks()}
         </div>
     </div>
-    <div style={{ textAlign: 'center'}}>Copyright &copy; {new Date().getFullYear()} All rights reserved</div>
+    <div style={{ textAlign: 'center'}}>&copy; {new Date().getFullYear()} Copyright All rights reserved</div>
   </div>
   );
 }
