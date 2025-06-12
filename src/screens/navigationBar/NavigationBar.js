@@ -16,7 +16,7 @@ function NavigationBar() {
   return (
     <div id='home'>
       <Navbar
-        className='navigation_container'
+        className='navigation__container'
         style={{ zIndex: '2' }}
         expand='md'
       >
