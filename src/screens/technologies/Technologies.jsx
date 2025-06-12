@@ -6,7 +6,7 @@ import "./technologies.css";
 function Technologies() {
   return (
     <div className="technologies__container" id="technologies">
-      <h1 className="header">TECHNOLOGIES</h1>
+      <h1 className="header">Technologies</h1>
 
       <div className="tech__cards__container">
         {techs.map((e, idx) => {
