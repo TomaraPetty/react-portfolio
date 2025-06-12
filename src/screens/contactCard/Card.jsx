@@ -17,8 +17,8 @@ const Card = () => {
 
   return (
     <>
-      <div className="contact__container">
-        <h1 className="header">CONTACT</h1>
+      <div className="contact__container section__container">
+        <h1 className="header">Contact Info</h1>
         <a href={`https://${personalData.linkedin}`} target="_blank" rel="noopener noreferrer" className="contact__card">
           <FaLinkedinIn className="contact__icons" />
           <span className="contact__name">{personalData.linkedin}</span>
