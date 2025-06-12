@@ -31,6 +31,12 @@ npm install
 npm run start
 ```
 
+* To deploy new changes 
+```bash
+npm run build
+npm run deploy
+```
+
 ## Usage
 *Instructions and examples for use:* 
 * A new user is able to visit the home page and see the animated UI. Users can skip to certain parts of the page by clicking the links in the navigation bar or from the links in the footer. 
