@@ -1,6 +1,3 @@
-h1 {
-    color: var(--nav-color-hover);
-}
 .main-info {
     display: flex;
     height: 100vh;
