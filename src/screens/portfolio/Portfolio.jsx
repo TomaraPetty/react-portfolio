@@ -29,20 +29,22 @@ function Portfolio() {
         </Modal.Header>
         <Modal.Body>
           <p>{data.summary}</p>
-          <Image src={data.image} style={{ width: '200px' }} />
+          <Image src={data.image} />
         </Modal.Body>
-        <a
+        <Button
           id='portfolio__modal__link'
           href={data.link}
           target='_blank'
           rel='noreferrer'
+          style={{ backgroundColor: 'var(--nav-color)', border: 'none', width: '10rem', padding: '0.5rem', margin: '0.5rem' }}
+          size='md'
         >
           Go to site
-        </a>
+        </Button>
         <Modal.Footer>
           <div>Technologies used: </div>
           <p style={{ fontSize: '0.7rem', marginRight: 'auto' }}>{data.tech}</p>
-          <Button onClick={() => setModalShow(false)}>Close</Button>
+          <Button style={{ backgroundColor: 'var(--nav-color)', border: 'none' }} onClick={() => setModalShow(false)}>Close</Button>
         </Modal.Footer>
       </Modal>
     );
@@ -51,7 +53,7 @@ function Portfolio() {
   const mapped = portfolioData.map((e, i) => {
     return (
       <Col md={6}>
-        <Card key={i} className='portfoli__card__container'>
+        <Card key={i} className='portfolio__card__container'>
           <Image
             className='portfolio__image'
             onClick={() => {
@@ -74,8 +76,8 @@ function Portfolio() {
   });
 
   return (
-    <div className='portfolio__main__container' id='portfolio'>
-      <h1 className="header">PORTFOLIO</h1>
+    <div className='portfolio__main__container section__container' id='portfolio'>
+      <h1 className="header">Portfolio</h1>
       <p>
         Check out more projects on my GitHub Page: &nbsp;
         <a
