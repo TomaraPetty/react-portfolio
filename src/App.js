@@ -6,6 +6,7 @@ import Technologies from './screens/technologies/Technologies';
 import ParticlesBG from './screens/particles/Particles';
 import Portfolio from './screens/portfolio/Portfolio';
 import ContactMe from './screens/contactMe/ContactMe';
+import Card from './screens/contactCard/Card';
 
 
 function App() {
@@ -19,6 +20,7 @@ function App() {
       <AboutMe />
       <Technologies />
       <Portfolio />
+      <Card />
       <ContactMe />
     </div>
   );
