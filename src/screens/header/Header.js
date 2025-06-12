@@ -6,7 +6,7 @@ import { ReactTyped } from "react-typed";
 function Header() {
   return (
     <div className='main-info'>
-      <h1>Who am I?</h1>
+      <h1 className="header">Who am I?</h1>
       <ReactTyped
         strings={[
           '',
@@ -23,10 +23,8 @@ function Header() {
         ]}
         typeSpeed={40}
         backSpeed={50}
-        // attr='placeholder'
         loop
       >
-        {/* <input type='text' /> */}
       </ReactTyped>
     </div>
   );
