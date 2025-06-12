@@ -12,10 +12,6 @@
     color: var(--font-color-hover);
 }
 
-.about__text {
-    max-width: 600px;
-}
-
 .about__container img {
     border-radius: 50%;
     border: 0.5px rgb(218,218,218);
