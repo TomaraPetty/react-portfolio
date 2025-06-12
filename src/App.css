@@ -137,7 +137,8 @@
 .header {
   color: var(--nav-color-hover);
   font-family: 'Poppins', sans-serif;
-  font-weight: 400;
+  font-weight: 300;
+  font-style: normal;
 }
 
 .section__container {
