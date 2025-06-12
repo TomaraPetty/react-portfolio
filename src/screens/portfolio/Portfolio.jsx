@@ -75,7 +75,7 @@ function Portfolio() {
 
   return (
     <div className='portfolio__main__container' id='portfolio'>
-      <h1>PORTFOLIO</h1>
+      <h1 className="header">PORTFOLIO</h1>
       <p>
         Check out more projects on my GitHub Page: &nbsp;
         <a
