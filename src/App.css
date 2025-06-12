@@ -26,3 +26,7 @@
 #tsparticles {
   height: 100vh;
 }
+
+.header {
+  color: var(--nav-color-hover);
+}
