@@ -7,8 +7,9 @@
     align-items: center;
     background-color: white;
     width: 100%;
-    padding: 40px;
+    padding: 3rem;
     gap: 2rem;
+    color: var(--font-color-hover);
 }
 
 .about__text {

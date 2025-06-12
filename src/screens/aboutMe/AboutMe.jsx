@@ -11,7 +11,7 @@ function AboutMe() {
         <img src={tomara} alt="Tomara Petty" />
       </div>
       <div className="about__text">
-        <h1 className="header">ABOUT ME</h1>
+        <h1 className="header">About me</h1>
         <h4 className="header">Climate Solutions Software Engineer</h4>
         <p>
           Full stack engineer dedicated to leveraging technology for positive
