@@ -1,5 +1,6 @@
 .portfolio__main__container {
   background-color: white;
+  color: var(--nav-color-hover);
 }
 
 .portfolio__card__container {
