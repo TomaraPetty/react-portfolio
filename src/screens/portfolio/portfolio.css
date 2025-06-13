@@ -35,6 +35,17 @@
   opacity: 0.1 !important;
 }
 
+.github-link {
+  color: var(--nav-color-hover);
+  text-decoration: none;
+  transition: color 0.3s ease;
+  margin-right: 0.5rem;
+}
+
+.github-link:hover {
+  color: black;
+}
+
 #portfolio__modal__link {
   padding: 0 0 1rem 1rem;
 }

@@ -99,9 +99,9 @@ function Portfolio() {
           href="https://github.com/TomaraPetty"
           target="_blank"
           rel="noopener noreferrer"
-          style={{ color: "var(--nav-color-hover)" }}
+          className="github-link"
         >
-          <FaGithub style={{ color: "black", marginRight: "0.5rem" }} />
+          <FaGithub className="github-link" />
           <span>github.com/TomaraPetty</span>
         </a>
       </p>

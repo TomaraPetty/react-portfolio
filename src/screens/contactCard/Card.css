@@ -5,34 +5,46 @@
 }
 
 .contact__card {
-    width: 23rem;
-    height: 4rem;
-    color: var(--nav-color-hover);
-    margin: 10px;
-    display: flex;
-    flex-direction: row;
-    justify-content: flex-start;
-    align-items: center;
-    border-radius: 9px;
-    border-color: var(--nav-color);
-    border-style: solid;
-    border-width: 1px 1px 5px 1px;
-    transition: all 0.1s;
-    padding: 0 1rem;
-    background-color: rgba(255, 255, 255, 0.7);
+  width: 23rem;
+  height: 4rem;
+  color: var(--nav-color-hover);
+  margin: 10px;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+  border-radius: 9px;
+  border-color: var(--nav-color);
+  border-style: solid;
+  border-width: 1px 1px 5px 1px;
+  transition: all 0.1s;
+  padding: 0 1rem;
+  background-color: rgba(255, 255, 255, 0.9);
+  text-decoration: none;
+  transition: color 0.3s ease;
+  margin-right: 0.5rem;
+}
+
+.contact__card:hover {
+  color: black;
 }
 
 .contact__icons {
-    height: 3rem;
-    width: 3rem;
-    margin-right: 1rem;
-    padding: .8rem;
-    color: black;
-    background: linear-gradient(to left top, var(--light-color), #9198e5, #c59494);
-    border-radius: 50%;
+  height: 3rem;
+  width: 3rem;
+  margin-right: 1rem;
+  padding: 0.8rem;
+  color: black;
+  background: linear-gradient(
+    to left top,
+    var(--light-color),
+    #9198e5,
+    #c59494
+  );
+  border-radius: 50%;
 }
 
 .contact__name {
-    font-size: 1rem;
-    white-space: nowrap;
+  font-size: 1rem;
+  white-space: nowrap;
 }
