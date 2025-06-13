@@ -8,20 +8,32 @@ export const techs = [
     iconName: 'javascript',
   },
   {
+    name: 'TypeScript',
+    iconName: 'typescript_badge',
+  },
+  {
     name: 'Python',
     iconName: 'python',
   },
   {
-    name: 'AWS',
-    iconName: 'aws',
+    name: 'Node',
+    iconName: 'nodejs_small',
+  },
+  {
+    name: 'PostgreSQL',
+    iconName: 'postgresql',
+  },
+  {
+    name: 'Jest',
+    iconName: 'jest',
   },
   {
     name: 'Github',
     iconName: 'github',
   },
   {
-    name: 'Node',
-    iconName: 'nodejs',
+    name: 'AWS',
+    iconName: 'aws',
   },
   {
     name: 'Docker',
@@ -31,32 +43,56 @@ export const techs = [
     name: 'Firebase',
     iconName: 'firebase',
   },
-  // {
-  //   name: 'Django',
-  //   iconName: 'django',
-  // },
   {
-    name: 'SQL lite',
-    iconName: 'sqllite',
+    name: 'Webpack',
+    iconName: 'webpack',
   },
   {
     name: 'Mongo DB',
     iconName: 'mongodb',
   },
   {
-    name: 'MySQL',
-    iconName: 'mysql',
+    name: 'Materialize',
+    iconName: 'materializecss',
+  },
+  {
+    name: 'Bootstrap',
+    iconName: 'bootstrap',
+  },
+  {
+    name: 'HTML 5',
+    iconName: 'html5',
+  },
+  {
+    name: 'CSS3',
+    iconName: 'css3',
   },
   {
     name: 'Less',
     iconName: 'less',
   },
-  // {
-  //   name: 'HTML 5',
-  //   iconName: 'html5',
-  // },
-  // {
-  //   name: 'CSS3',
-  //   iconName: 'css3',
-  // },
+  {
+    name: 'Vue.js',
+    iconName: 'vuejs',
+  },
+  {
+    name: 'Jira',
+    iconName: 'jira',
+  },
+  {
+    name: 'Git',
+    iconName: 'git',
+  },
+  {
+    name: 'Databases',
+    iconName: 'database',
+  },
+  {
+    name: 'Chrome DevTools',
+    iconName: 'chrome',
+  },
+  {
+    name: 'Ubuntu',
+    iconName: 'ubuntu',
+  },
 ];
