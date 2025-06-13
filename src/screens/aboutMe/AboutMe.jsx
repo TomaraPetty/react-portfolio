@@ -12,7 +12,7 @@ function AboutMe() {
       </div>
       <div className="about__text">
         <h1 className="header">About me</h1>
-        <h4 className="header">Climate Solutions Software Engineer</h4>
+        <h4 className="header">Senior Software Engineer</h4>
         <p>
           Full stack engineer dedicated to leveraging technology for positive
           social & environmental impact. With {yearExperience}+ years of
