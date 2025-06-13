@@ -61,7 +61,7 @@ function ParticlesBG() {
             },
             particles: {
               color: {
-                value: "#5EAAA8",
+                value: "#bbced8",
               },
               links: {
                 color: "#5EAAA8",
