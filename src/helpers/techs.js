@@ -32,12 +32,16 @@ export const techs = [
     iconName: 'github',
   },
   {
+    name: 'Docker',
+    iconName: 'docker',
+  },
+  {
     name: 'AWS',
     iconName: 'aws',
   },
   {
-    name: 'Docker',
-    iconName: 'docker',
+    name: 'Google Cloud',
+    iconName: 'google-cloud-platform',
   },
   {
     name: 'Firebase',
@@ -68,12 +72,8 @@ export const techs = [
     iconName: 'css3',
   },
   {
-    name: 'Less',
-    iconName: 'less',
-  },
-  {
-    name: 'Vue.js',
-    iconName: 'vuejs',
+    name: 'Ubuntu',
+    iconName: 'ubuntu',
   },
   {
     name: 'Jira',
@@ -84,15 +84,15 @@ export const techs = [
     iconName: 'git',
   },
   {
-    name: 'Databases',
-    iconName: 'database',
+    name: 'Less',
+    iconName: 'less',
   },
   {
     name: 'Chrome DevTools',
     iconName: 'chrome',
   },
   {
-    name: 'Ubuntu',
-    iconName: 'ubuntu',
+    name: 'Database',
+    iconName: 'database',
   },
 ];
